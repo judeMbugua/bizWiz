@@ -1,0 +1,11 @@
+#helper_text{
+    font-size: 1.4rem;
+    text-align: center;
+    background-color: rgb(182, 182, 162);
+    width: 30%;
+    height: 3rem;
+    padding-block-start: 1rem;
+    border-radius: 1rem;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+}

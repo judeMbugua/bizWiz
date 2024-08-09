@@ -1,0 +1,15 @@
+.intro-container{
+    margin-top: 1rem;
+    width:88%;
+    margin: 0 auto;
+    background-color: rgb(224, 218, 218);
+    height: 5rem;
+    border-radius: .5rem;
+}
+
+#intro_text{
+    position: relative;
+    font-size: 1.6rem;
+    text-align: center;
+    padding-block-start: 1.5rem;
+}
